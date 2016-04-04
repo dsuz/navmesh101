@@ -1,8 +1,8 @@
 # navmesh101
-navmesh, navmesh agent, navmesh obstacles ‚ðŽg‚Á‚½ƒTƒ“ƒvƒ‹ ƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Å‚·B  
-web demo: http://ogames.webcrow.jp/?p=213
+navmesh, navmesh agent, navmesh obstacles ã‚’ä½¿ã£ãŸã‚µãƒ³ãƒ—ãƒ« ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã§ã™ã€‚  
+web demo: http://bboydaisuke.wp.xdomain.jp/2015/09/10/63/
 
-# Žg—pƒAƒZƒbƒg
+# ä½¿ç”¨ã‚¢ã‚»ãƒƒãƒˆ
 * Yughues Fabric Materials: https://www.assetstore.unity3d.com/en/#!/content/13002
 * Cope! Free Skybox Pack: https://www.assetstore.unity3d.com/en/#!/content/22252
-* SDƒ†ƒjƒeƒB‚¿‚á‚ñ 3Dƒ‚ƒfƒ‹ƒf[ƒ^: http://unity-chan.com/contents/guideline/
+* SDãƒ¦ãƒ‹ãƒ†ã‚£ã¡ã‚ƒã‚“ 3Dãƒ¢ãƒ‡ãƒ«ãƒ‡ãƒ¼ã‚¿: http://unity-chan.com/contents/guideline/
